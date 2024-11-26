@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a PostDoc in the lab of theoretical ecology at the University of Regensburg. My research focuses on ecological machine learning, specifically how we can use machine learning and deep learning to improve inference of complex effects and improve community predictions. 
+
 <!--
 **MaximilianPi/MaximilianPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
